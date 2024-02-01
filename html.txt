@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="grid-container">
+        <div class="d1">
+            <div class="caps">IPHONE 6S</div>
+            <h3>3D Touch. 12MP photos. 4K video. One powerful phone</h3>
+            <div class="grey-text">Learn more or visit Apple Store today</div>
+        </div>
+        <div class="d2">
+            <img src="5bc2f42d9f9d5c2db96e7aa2_Img.png" alt="iphone6 displaying a game controller" class="landing-image">
+        </div>
+        <div class="d3">
+            <div class="caps center">Learn More</div>
+            <h1 class="heading">How to Use Rotary<br> Evaporator in <br>Chemical Labs</h1>
+            <a href="#">Download now</a>
+        </div>
+        <div class="d4">
+            <img src="5bc2f42e5b2ebf1f70525e52_Keyboard.png" alt="keyboard with wire">
+            <h3><strong>Our Brand New Keyboard</strong></h3>
+            <a href="#" class="arrow-link yellow">
+                Learn
+                <strong class="yellow">></strong>
+            </a>
+        </div>
+        <div class="d5">
+            <div class="caps">IMAC.RETINA</div>
+            <h3>Hardly a month passes these days where</h3>
+            <img src="5bc4451fac429126a5d9f264_Macintosh-p-500.png" alt="old small monitor">
+        </div>
+        <div class="d6">
+            <div class="grey-text">Apple may be experimenting in the virtual reality space. The company has been granted a patent for a head-mounted virtual reality device that would use the iPhone screen as the display.</div>
+            <a href="#">Download Now</a>
+            <span class="arrow">></span>
+        </div>
+        <div class="d7">
+            <div class="circle">
+                <div class="text-block">POPULAR</div>
+                <img src="5bc2f42eccad9470ed6d145d_TV.png" alt="purple disk">
+                <div class="caps white">meet</div>
+            </div>
+            <h2>iCloud</h2>
+
+            <div class="text-block2">
+                With iCloud, you always have the latest versions of your most important things — like documents, apps, notes, and contacts — on whatever device you’re using.
+            </div>
+            <a href="#" class="btn">LEARN MORE</a>
+        </div>
+
+        <div class="d8">
+            <img src="5bc2f42dccad941a506d145c_Controller.png" alt="game controller with wire">
+            <h3>Games ourpassion</h3>
+            <a href="#" class="arrow">LEARN
+                <span class="arrow">></span>
+            </a>
+        </div>
+
+        <div class="d9">
+            <div class="mini-caps">BEST CHOICE</div>
+            <h3>Much MuchBetter<br> Experience</h3>
+            <img src="5bc2e078ccad94811f6d0da3_iPad Pro.png" alt="laptop displaying a website">
+        </div>
+
+        <div class="d10">
+            <div class="twitter-container">
+                <img src="5bc2f42dac429123bdd925dc_twitter.png" alt="twitter-icon">
+                <h3>Connect with Twitter</h3>
+            </div>
+        </div>
+
+        <div class="d11">
+            <div class="mini-caps">
+                POPULAR
+            </div>
+            <h3>Much MuchBetter Experience</h3>
+        </div>
+
+        <div class="d12">
+            <img src="5bc2f42de46b0e56a5607bd7_Floppy.png" alt="green tv, old school">
+            <h3>More than just a display,<br> it's a vision</h3>
+        </div>
+    </div>
+
+</body>
+
+</html>
+</body>
+</html>
